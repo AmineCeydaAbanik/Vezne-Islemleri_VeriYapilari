@@ -1,0 +1,2 @@
+İsim: Ceyda ,Öncelik: 1 ,İslem Süresi: 6676ms
+
