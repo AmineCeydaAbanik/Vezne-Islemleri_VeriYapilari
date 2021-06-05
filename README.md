@@ -1,0 +1,1 @@
+# Vezne-slemleri_VeriYapilari
